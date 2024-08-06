@@ -23,6 +23,16 @@ reusability and consistency across the application.
 
 ### 📂 Featured Projects
 
+**Price-Mate**
+[GitHub Repository](https://github.com/Parvezkhan0/Price-Mate.git)
+Developed an advanced e-commerce product scraping tool using Next.js enabling users to receive
+real-time notifications on price drops and stock changes.Implemented automated email notifications and periodic data updates using Nodemailer, ensuring
+users are promptly informed about significant changes in product availability and pricing.
+
+**Inventory Dashboard Management**
+[GitHub Repository](https://github.com/Parvezkhan0/Inventory-Dashboard-Management.git)
+Developed and deployed a full-stack inventory management dashboard application with a responsive frontend and robust backend.Implemented state management, data fetching, and seamless integration with AWS services.
+
 **Tesla Stock Forecasting Using LSTM**  
 [GitHub Repository](https://github.com/Parvezkhan0/Tesla-Stock-Forecasting-Using-LTSM.git)  
 This repository contains notebooks and datasets for a comprehensive project focused on forecasting Tesla (TSLA) stock prices. The predictive models employed include a single-step LSTM for immediate forecasting and a multi-stacked LSTM for extended predictions, spanning multiple days into the future (equivalent to a month in business days). The documentation not only presents the practical implementation but also provides an insightful exploration of the intuitive and mathematical underpinnings of LSTM networks.
