@@ -24,6 +24,7 @@ reusability and consistency across the application.
 ### 📂 Featured Projects
 
 **Price-Mate**
+
 [GitHub Repository](https://github.com/Parvezkhan0/Price-Mate.git)
 Developed an advanced e-commerce product scraping tool using Next.js enabling users to receive
 real-time notifications on price drops and stock changes.Implemented automated email notifications and periodic data updates using Nodemailer, ensuring
