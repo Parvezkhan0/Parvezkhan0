@@ -30,9 +30,9 @@ Developed an advanced e-commerce product scraping tool using Next.js enabling us
 real-time notifications on price drops and stock changes.Implemented automated email notifications and periodic data updates using Nodemailer, ensuring
 users are promptly informed about significant changes in product availability and pricing.
 
-**Inventory Dashboard Management**
-[GitHub Repository](https://github.com/Parvezkhan0/Inventory-Dashboard-Management.git)
-Developed and deployed a full-stack inventory management dashboard application with a responsive frontend and robust backend.Implemented state management, data fetching, and seamless integration with AWS services.
+**LiveDocs**
+[GitHub Repository](https://github.com/Parvezkhan0/LiveDocs.git)
+Live Docs is a collaborative document editor that enables real-time collaboration. Built with Next.js, TypeScript, and Tailwind CSS, it integrates Liveblocks for instant updates and secure document sharing. With features like user authentication, inline comments, and document management, Live Docs enhances productivity and teamwork in any setting.
 
 **Tesla Stock Forecasting Using LSTM**  
 [GitHub Repository](https://github.com/Parvezkhan0/Tesla-Stock-Forecasting-Using-LTSM.git)  
