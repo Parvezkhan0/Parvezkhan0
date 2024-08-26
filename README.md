@@ -31,6 +31,7 @@ real-time notifications on price drops and stock changes.Implemented automated e
 users are promptly informed about significant changes in product availability and pricing.
 
 **LiveDocs**
+
 [GitHub Repository](https://github.com/Parvezkhan0/LiveDocs.git)
 Live Docs is a collaborative document editor that enables real-time collaboration. Built with Next.js, TypeScript, and Tailwind CSS, it integrates Liveblocks for instant updates and secure document sharing. With features like user authentication, inline comments, and document management, Live Docs enhances productivity and teamwork in any setting.
 
