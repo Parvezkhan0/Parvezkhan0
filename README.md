@@ -16,7 +16,7 @@ I'm a recent Computer Science graduate passionate about software development and
 • Engineered and deployed RESTful APIs using Python, enabling seamless CRUD operations with robust error handling and optimized query performance
 • Implemented JWT authentication for secure user access and containerized services using Docker for scalability and efficient deployment.
 
-- **Tessact:** 
+- **Tessact:**
 • Developed and maintained reusable UI components using TypeScript and React, enhancing code reusability and consistency across the application.
 • Designed and managed MongoDB databases, optimizing query performance and ensuring data integrity across multiple services.
 
