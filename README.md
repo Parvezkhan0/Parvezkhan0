@@ -8,8 +8,8 @@ I'm a recent Computer Science graduate passionate about software development and
 ### 🛠️ Technical Skills
 **Languages:** Python, HTML/CSS, golang, JavaScript (React.js, Next.js, Node.js)  
 **Databases:** PostgreSQL, MongoDB, Redis  
-**Tools:** Git & GitHub, Linux, Jupyter Notebook, Colab, Microsoft Azure, Jira, Postman, Prometheus, Docker, AWS  
-**Frameworks & Libraries:** RESTful APIs, pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, TailwindCSS, Gorilla/Mux  
+**Tools:** Git & GitHub, Linux, Jupyter Notebook, Colab, Microsoft Azure, Jira, Postman, Prometheus, Docker, AWS, Apache Kafka
+**Frameworks & Libraries:** RESTful APIs, pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, TailwindCSS, Gorilla/Mux , Cypress
 
 ### 💼 Professional Experience
 - **Wingify:**
