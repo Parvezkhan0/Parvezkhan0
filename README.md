@@ -1,5 +1,4 @@
 
-
 ## Hi there, I'm Parvez Khan! 👋 
 ### Welcome to My GitHub Profile
 
