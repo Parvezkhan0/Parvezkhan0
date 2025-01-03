@@ -54,7 +54,6 @@ This project investigates the intricate factors shaping user ratings and conduct
 
 ### 🏆 Achievements
 - Solved over 750 questions on LeetCode and contributed to 70+ solutions and several articles.
-- Won second place in HackCode, a university coding championship.
 
 ### 🌱 What I'm Learning
 I'm currently delving deeper into system design and exploring advanced topics in distributed systems and microservices. I aim to apply this knowledge to build scalable and resilient applications.
