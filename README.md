@@ -30,7 +30,7 @@ users are promptly informed about significant changes in product availability an
 **LiveDocs**
 
 [GitHub Repository](https://github.com/Parvezkhan0/LiveDocs.git)
-Live Docs is a collaborative document editor that enables real-time collaboration. Built with Next.js, TypeScript, and Tailwind CSS, it integrates Liveblocks for instant updates and secure document sharing. With features like user authentication, inline comments, and document management, Live Docs enhances productivity and teamwork in any setting.
+Live Docs is a collaborative document editor that enables real-time collaboration. Built with Next.js, TypeScript, and Tailwind CSS, it integrates Liveblocks for instant updates and secure document sharing. With features like user authentication, inline comments, & document management, Live Docs enhances productivity and teamwork in any setting.
 
 **Tesla Stock Forecasting Using LSTM**  
 [GitHub Repository](https://github.com/Parvezkhan0/Tesla-Stock-Forecasting-Using-LTSM.git)  
