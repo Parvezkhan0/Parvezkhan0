@@ -53,8 +53,11 @@ This project involves analyzing sentiments and manifestations (comments, hashtag
 This project investigates the intricate factors shaping user ratings and conducts sentiment analysis on reviews from app stores and Google Play for Threadfluence, an Instagram-backed app. The analysis aims to decode the elements driving user ratings and unravel the sentiments expressed in the reviews.
 
 ### 🏆 Achievements
-- Solved over 750 questions on LeetCode and contributed to 70+ solutions and several articles.
 
+ • Solved 800+ DSA problems on LeetCode with a global rank of 1467.
+ • Solved 160+ coding problems and published 1 article on GeeksforGeeks.
+ • Secured 2nd position in CodeGen, a university competition
+ 
 ### 🌱 What I'm Learning
 I'm currently delving deeper into system design and exploring advanced topics in distributed systems and microservices. I aim to apply this knowledge to build scalable and resilient applications.
 
