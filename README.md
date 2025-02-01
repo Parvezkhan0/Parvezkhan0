@@ -1,5 +1,5 @@
 ## Hi there, I'm Parvez Khan! 👋 
-### Welcome to My GitHub Profile
+### Welcome to My GitHub Profile   
 
 I'm a recent Computer Science graduate passionate about software development and eager to make my mark in the tech industry. With a solid foundation in full-stack development, I am continuously learning and building projects to enhance my skills.
 
