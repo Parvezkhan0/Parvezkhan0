@@ -69,7 +69,7 @@ I'm currently delving deeper into system design and exploring advanced topics in
 - Medium: [parvez0khan](https://medium.com/@parvez0khan)
 
 ### ✨ Fun Fact
-When I'm not coding, I enjoy exploring new tech trends, participating in hackathons, and contributing to different open-source projects.
+When I'm not coding, I enjoy exploring new tech trends, participating in hackathons, and contributing to different open-source project.
 
 
 
