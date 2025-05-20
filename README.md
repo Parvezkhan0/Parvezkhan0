@@ -3,7 +3,7 @@
                  
 I'm a recent Computer Science graduate passionate about software development and eager to make my mark in the tech industry. With a solid foundation in full-stack development, I am continuously learning and building projects to enhance my skills.
   
-### 🛠️ Technical Skills
+### 🛠️ Technical Skill
 **Languages:** Python, HTML/CSS, golang, JavaScript (React.js, Next.js, Node.js, express.js)  
 **Databases:** PostgreSQL, MongoDB, Redis, Neo4j  
 **Tools:** Git & GitHub, Linux, Jupyter Notebook, Colab, Microsoft Azure, Jira, Postman, Prometheus, Docker, AWS, Apache Kafka, SQL     
