@@ -56,7 +56,7 @@ This project investigates the intricate factors shaping user ratings and conduct
 
  • Solved 800+ DSA problems on LeetCode with a global rank of 1467.
  • Solved 160+ coding problems and published 1 article on GeeksforGeeks.
- • Secured 2nd position in CodeGen, a university competition
+ • Secured 2nd position in CodeGen, a university competition.
  
 ### 🌱 What I'm Learning
 I'm currently delving deeper into system design and exploring advanced topics in distributed systems and microservices. I aim to apply this knowledge to build scalable and resilient applications.
