@@ -1,5 +1,5 @@
 ## Hi there, I'm Parvez Khan! 👋 
-### Welcome to My GitHub Profile      
+### Welcome to My GitHub Profile       
                  
 I'm a recent Computer Science graduate passionate about software development and eager to make my mark in  tech industry. With a solid foundation in full-stack development, I am continuously learning and building projects to enhance my skills.
   
@@ -7,7 +7,7 @@ I'm a recent Computer Science graduate passionate about software development and
 **Languages:** Python, HTML/CSS, golang, JavaScript (React.js, Next.js, Node.js, express.js)  
 **Databases:** PostgreSQL, MongoDB, Redis, Neo4j  
 **Tools:** Git & GitHub, Linux, Jupyter Notebook, Colab, Microsoft Azure, Jira, Postman, Prometheus, Docker, AWS, Apache Kafka, SQL     
-**Frameworks & Libraries:** RESTful APIs, pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, TailwindCSS, Gorilla/Mux , Cypress, GraphQL
+**Frameworks & Libraries:** RESTful APIs, pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, TailwindCSS, Gorilla/Mux ,  GraphQL
 
 ### 💼 Professional Experience
 - **Wingify:**
