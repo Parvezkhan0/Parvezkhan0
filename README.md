@@ -1,75 +1,70 @@
-## Hi there, I'm Parvez Khan! 👋 
-### Welcome to My GitHub Profile       
-                 
-I'm a recent Computer Science graduate passionate about software development and eager to make my mark in  tech industry. With a solid foundation in full-stack development, I am continuously learning and building projects to enhance my skills.
-  
-### 🛠️ Technical Skill
-**Languages:** Python, HTML/CSS, golang, JavaScript (React.js, Next.js, Node.js, express.js)  
+# Parvez Khan | Full-Stack Software Engineer
+
+**Building scalable web applications and intelligent systems with modern technologies**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvez-khan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/parvezkhan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@parvez0khan)
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend:** React.js, Next.js, TypeScript, TailwindCSS  
+**Backend:** Node.js, Express.js, Python, Go  
 **Databases:** PostgreSQL, MongoDB, Redis, Neo4j  
-**Tools:** Git & GitHub, Linux, Jupyter Notebook, Colab, Microsoft Azure, Jira, Postman, Prometheus, Docker, AWS, Apache Kafka, SQL     
-**Frameworks & Libraries:** RESTful APIs, pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, TailwindCSS, Gorilla/Mux ,  GraphQL
+**Cloud & DevOps:** AWS, Docker, Apache Kafka, Prometheus  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy
 
-### 💼 Professional Experience
-- **Wingify:**
-• Engineered and deployed RESTful APIs using Python, enabling seamless CRUD operations with robust error handling and optimized query performance
-• Implemented JWT authentication for secure user access and containerized services using Docker for scalability and efficient deployment.
+---
 
-- **Tessact:**
-• Developed and maintained reusable UI components using TypeScript and React, enhancing code reusability and consistency across the application.
-• Designed and managed MongoDB databases, optimizing query performance and ensuring data integrity across multiple services.
+## 💼 Professional Experience
 
-### 📂 Featured Projects
+### **Backend Engineer** | Wingify
+- Engineered RESTful APIs in Python with optimized query performance and robust error handling
+- Implemented JWT authentication and containerized services with Docker for scalable deployment
 
-**Price-Mate**
+### **Frontend Developer** | Tessact  
+- Built reusable TypeScript/React components improving code consistency across applications
+- Designed MongoDB schemas and optimized database queries for multi-service architecture
 
-[GitHub Repository](https://github.com/Parvezkhan0/Price-Mate.git)
-Developed an advanced e-commerce product scraping tool using Next.js enabling users to receive
-real-time notifications on price drops and stock changes.Implemented automated email notifications and periodic data updates using Nodemailer, ensuring
-users are promptly informed about significant changes in product availability and pricing.
+---
 
-**LiveDocs**
+## 🎯 Featured Projects
 
-[GitHub Repository](https://github.com/Parvezkhan0/LiveDocs.git)
-Live Docs is a collaborative document editor that enables real-time collaboration. Built with Next.js, TypeScript, and Tailwind CSS, it integrates Liveblocks for instant updates and secure document sharing. With features like user authentication, inline comments, & document management, Live Docs enhances productivity and teamwork in any setting.
+### [**Price-Mate**](https://github.com/Parvezkhan0/Price-Mate) | E-commerce Price Tracker
+Next.js-powered scraping tool with automated email notifications for price drops and stock changes.
 
-**Tesla Stock Forecasting Using LSTM**  
-[GitHub Repository](https://github.com/Parvezkhan0/Tesla-Stock-Forecasting-Using-LTSM.git)  
-This repository contains notebooks and datasets for a comprehensive project focused on forecasting Tesla (TSLA) stock prices. The predictive models employed include a single-step LSTM for immediate forecasting and a multi-stacked LSTM for extended predictions, spanning multiple days into the future (equivalent to a month in business days). The documentation not only presents the practical implementation but also provides an insightful exploration of the intuitive and mathematical underpinnings of LSTM networks.
+### [**LiveDocs**](https://github.com/Parvezkhan0/LiveDocs) | Real-time Collaborative Editor
+Built with Next.js, TypeScript, and Liveblocks for instant document collaboration with authentication and comments.
 
-**KryptoWalletApp**  
-[GitHub Repository](https://github.com/Parvezkhan0/KryptoWalletApp.git)  
-KryptoWalletApp is a basic Hardhat project showcasing Ethereum development practices. It features a sample contract, a corresponding test suite, a deployment script, and an example task implementation. This serves as a foundation for developers to explore and understand the functionalities of Hardhat in Ethereum development.
+### [**Tesla Stock Forecasting**](https://github.com/Parvezkhan0/Tesla-Stock-Forecasting-Using-LTSM) | ML Prediction Model
+LSTM-based stock prediction system with single-step and multi-day forecasting capabilities.
 
-**Customer-Segmentation-for-E-commerce**  
-[GitHub Repository](https://github.com/Parvezkhan0/Customer-Segmentation-for-E-commerce.git)  
-This project involves segmenting customers to predict what they would buy on their next visit according to their history. It includes product clustering using tf-idf technique and customer clustering using K-Means Clustering algorithms, with a final classification using various models like SVM, Logistic Regression, k-NN, Decision Tree, Random Forest, Gradient Boosting, and Ada Boost.
+### [**Customer Segmentation Platform**](https://github.com/Parvezkhan0/Customer-Segmentation-for-E-commerce) | ML Analytics
+E-commerce analytics using K-Means clustering and multiple classification models for purchase prediction.
 
-**Social Media Sentiment Analysis**  
-[GitHub Repository](https://github.com/Parvezkhan0/Sentiment-Analysis-on-Social-Media-Data.git)  
-This project involves analyzing sentiments and manifestations (comments, hashtags, posts, tweets) of Twitter users based on the main trends (e.g., COVID-19) using Natural Language Processing and Sentiment Classification with a Recurrent Neural Network (RNN).
+---
 
-**Threads-Sentiment-Insights**  
-[GitHub Repository](https://github.com/Parvezkhan0/Threads-Sentiment-Insights.git)  
-This project investigates the intricate factors shaping user ratings and conducts sentiment analysis on reviews from app stores and Google Play for Threadfluence, an Instagram-backed app. The analysis aims to decode the elements driving user ratings and unravel the sentiments expressed in the reviews.
+## 🏆 Achievements
 
-### 🏆 Achievements
+- **LeetCode:** 800+ problems solved, Global Rank #1467
+- **GeeksforGeeks:** 160+ problems solved, 1 published article  
+- **CodeGen Competition:** 2nd place winner
 
- • Solved 800+ DSA problems on LeetCode with a global rank of 1467.
- • Solved 160+ coding problems and published 1 article on GeeksforGeeks.
- • Secured 2nd position in CodeGen, a university competition.
- 
-### 🌱 What I'm Learning
-I'm currently delving deeper into system design and exploring advanced topics in distributed systems and microservices. I aim to apply this knowledge to build scalable and resilient applications.
+---
 
-### 🔗 Connect with Me
-- LinkedIn: [Parvez-khan](https://www.linkedin.com/in/parvez-khan/)
-- GitHub: [Parvezkhan0](https://github.com/Parvezkhan0)
-- LeetCode: [parvezkhan](https://leetcode.com/parvezkhan)
-- GeeksforGeeks: [parvezcs20](https://auth.geeksforgeeks.org/user/parvezcs20)
-- Medium: [parvez0khan](https://medium.com/@parvez0khan)
+## 🌱 Currently Exploring
 
-### ✨ Fun Fact
-When I'm not coding, I enjoy exploring new tech trends, exploring products at product hunts, participating in hackathons, and contributing to different open-source project.
+System Design, Distributed Systems, and Microservices Architecture for building enterprise-scale applications.
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parvezkhan0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvezkhan0&layout=compact&theme=radical)
+
+---
+
+💡 **Open to collaborating on innovative projects and contributing to impactful open-source initiatives**
