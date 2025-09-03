@@ -11,7 +11,7 @@
 ## 🚀 Tech Stack
 
 **Frontend:** React.js, Next.js, TypeScript, TailwindCSS  
-**Backend:** Node.js, Express.js, Python, Go  
+**Backend:** Node.js, Express.js, Python, Go , FastAPI 
 **Databases:** PostgreSQL, MongoDB, Redis, Neo4j  
 **Cloud & DevOps:** AWS, Docker, Apache Kafka, Prometheus, Render  
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy
