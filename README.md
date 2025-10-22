@@ -36,7 +36,7 @@
 Next.js-powered scraping tool with automated email notifications for price drops and stock changes.
 
 ### [**LiveDocs**](https://github.com/Parvezkhan0/LiveDocs) | Real-time Collaborative Editor
-Built with Next.js, TypeScript, and Liveblocks for instant document collaboration with authentication and comments.
+Built with Next.js, TypeScript, and Liveblocks for instant document collaboration with authentication and comment.
 
 ### [**Tesla Stock Forecasting**](https://github.com/Parvezkhan0/Tesla-Stock-Forecasting-Using-LTSM) | ML Prediction Model
 LSTM-based stock prediction system with single-step and multi-day forecasting capabilities.
