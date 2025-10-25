@@ -13,7 +13,7 @@
 **Frontend:** React.js, Next.js, TypeScript, TailwindCSS  
 **Backend:** Node.js, Express.js, Python, Go , FastAPI 
 **Databases:** PostgreSQL, MongoDB, Redis, Neo4j  
-**Cloud & DevOps:** AWS, Docker, Apache Kafka, Prometheus, Render  
+**Cloud & DevOps:** AWS, Docker, Apache Kafka, Prometheus, Render, GCP
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy
 
 ---
