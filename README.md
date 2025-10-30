@@ -1,4 +1,4 @@
-# Parvez Khan | Full-Stack | Software Engineer | Backend Engineer
+# Parvez Khan | Full-Stack Developer| Software Engineer | Backend Engineer
 
 **Building scalable web applications and intelligent systems with the modern technologies**
 
