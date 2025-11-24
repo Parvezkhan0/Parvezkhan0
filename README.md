@@ -1,6 +1,6 @@
 # Parvez Khan | Full-Stack Developer| Software Engineer | Backend Engineer
 
-**Building scalable web applications and intelligent systems with the modern technologies**
+**Building scalable web applications & intelligent systems with the modern technologies**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvez-khan/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/parvezkhan)
