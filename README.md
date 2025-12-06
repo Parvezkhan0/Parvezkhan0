@@ -122,11 +122,14 @@ const impact = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parvezkhan0&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="GitHub Stats" />
+<a href="https://github.com/Parvezkhan0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parvezkhan0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvezkhan0&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvezkhan0&theme=radical&hide_border=true&background=1a1b27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvezkhan0&theme=algolia&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvezkhan0&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=3B82F6&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parvezkhan0&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
