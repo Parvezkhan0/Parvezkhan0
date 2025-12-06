@@ -122,11 +122,11 @@ const impact = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parvezkhan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
+<img src="https://github-readme-stats.vercel.app/api?username=Parvezkhan0&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parvezkhan0&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvezkhan0&theme=radical&hide_border=true&background=1a1b27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parvezkhan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvezkhan0&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=3B82F6&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -136,19 +136,39 @@ const impact = {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Learning))
-    System Design
-      Scalability Patterns
-      Load Balancing
-    Distributed Systems
-      Consensus Algorithms
-      Data Consistency
-    Microservices
-      Service Mesh
-      API Gateway
-```
+### 🎯 Exploring Advanced Topics
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🏗️ System Design
+- Scalability Patterns
+- Load Balancing
+- Caching Strategies
+- Database Sharding
+
+</td>
+<td align="center" width="33%">
+
+#### 🌐 Distributed Systems
+- Consensus Algorithms
+- Data Consistency
+- CAP Theorem
+- Message Queues
+
+</td>
+<td align="center" width="33%">
+
+#### 🔧 Microservices
+- Service Mesh
+- API Gateway
+- Event-Driven Architecture
+- Container Orchestration
+
+</td>
+</tr>
+</table>
 
 </div>
 
