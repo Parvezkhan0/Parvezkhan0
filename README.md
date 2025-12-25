@@ -181,7 +181,7 @@ const impact = {
 
 ### 💡 Open to Collaboration
 
-**Interested in working on innovative projects and contributing to impactful open-source initiatives**
+**Interested in working on innovative projects & contributing to impactful open-source initiatives**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Parvezkhan0&color=3B82F6&style=for-the-badge)](https://github.com/Parvezkhan0)
 
