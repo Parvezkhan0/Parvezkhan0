@@ -62,7 +62,7 @@
 ```python
 achievements = {
     "api_development": "Engineered RESTful APIs with Python",
-    "optimization": "Optimized query performance and robust error handling",
+    "optimization": "Optimized query performance & robust error handling",
     "security": "Implemented JWT authentication systems",
     "deployment": "Containerized services with Docker for scalability"
 }
