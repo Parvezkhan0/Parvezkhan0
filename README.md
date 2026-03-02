@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Parvez Khan
 
-### 🚀 SDE-II | Software Engineer -II| Backend Architect
+### 🚀 SDE-II | AI/ML| Backend Architect
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Crafting+intelligent+systems;Solving+complex+problems;Always+learning+%26+growing" alt="Typing SVG" />
 
